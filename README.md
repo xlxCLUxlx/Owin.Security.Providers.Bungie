@@ -2,3 +2,9 @@
 
 # Owin.Security.Providers.Bungie
 OAuth provider for the Bungie.net API using OWIN
+
+I am currently in the process of writing up some documentation as well as providing a basic sample ASP.NET MVC site that can be used in conjunction with the OAuth provider for debugging and learning how to interact with the Bungie API via OAuth.  I will provide a sequence diagram of the OAUth process with Bungie based on [RFC 6749 - The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749).
+
+For now you can see the sequence diagram and I will fill in specific details around it.
+
+![](https://i.imgur.com/HkLqzpx.png)
