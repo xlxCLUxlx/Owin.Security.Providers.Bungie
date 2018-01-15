@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Owin.Security.Providers.Bungie</id>
+    <version>$version$</version>
+    <title>Owin.Security.Providers.Bungie</title>
+    <authors>Eric Boulden</authors>
+    <owners>Eric Boulden</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/xlxCLUxlx/Owin.Security.Providers.Bungie</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>OAuth provider for the Bungie.net API using OWIN</description>
+    <releaseNotes>Release of Bungie OAuth provider based on OWIN.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Bungie OAuth</tags>
+  </metadata>
+</package>
